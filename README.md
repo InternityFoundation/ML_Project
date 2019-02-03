@@ -7,3 +7,7 @@ Neural Image Style Transfer Project implemented using Pytorch framework.
 * [Ramanpreet Singh](https://github.com/Ramanpreet6262)
 * [Rishabh Sharma](https://github.com/rishabhsharma3617)
 * [Pushpuneet Singh](https://github.com/PushpneetSingh)
+
+## Results of Project
+
+<img src=Images/img.png height=300em>
