@@ -1,6 +1,6 @@
 # ML_Project
 
-Neural Image Style Transfer Project implemented using Pytorch framework.
+Neural Image Style Transfer Project implemented using Pytorch framework. We used a pre-trained VGG-19 convolutional neural network as a feature extractor for content image and style image and later backpropagated it to minimize the loss function(comprising of content loss as well as style loss functions) to get the required target image.
 
 ## Team members
 
